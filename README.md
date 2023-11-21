@@ -1,2 +1,2 @@
 # CODSOFT
-A task completed given by CODSOFT Web development.
+A task completed given by CODSOFT to develop Calculator.
